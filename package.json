@@ -1,6 +1,6 @@
 {
   "name": "@shinigami_dev/console.input",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An easy package to interact with user input inside the console.",
   "main": "index.js",
   "dependencies": {
