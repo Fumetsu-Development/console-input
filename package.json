@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fumetsu-Development/console.input.git"
+    "url": "git+https://github.com/JussTorched/console-input.git"
   },
   "keywords": [
     "input",
@@ -22,7 +22,7 @@
   "author": "(不滅)Shinigami",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fumetsu-Development/console.input/issues"
+    "url": "https://github.com/JussTorched/console-input/issues"
   },
-  "homepage": "https://github.com/Fumetsu-Development/console.input#readme"
+  "homepage": "https://github.com/JussTorched/console-input#readme"
 }
