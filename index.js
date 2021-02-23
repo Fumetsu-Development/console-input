@@ -8,5 +8,5 @@ const output = (output) => {
 }
 
 module.exports = {
-    input: input, output: output;
+    input, output
 }
